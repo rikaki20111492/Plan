@@ -1,0 +1,35 @@
+- 05 Java Developers (JavaScript/Spring)
+	1,000 - 1,500 USD
+	https://itviec.com/viec-lam-it/05-java-developers-javascript-spring-vingroup-a-day-roi-2034
+	+ Java Core, Spring Framework
+	+ Có khả năng phân tích thiết kế giải pháp phần mềm: UML
+	+ git, git-flow
+	+ Có kiến thức về cơ sở dữ liệu Oracle
+	
+- Data Engineer (Big Data/Python/Java)
+	1,000 - 1,500 USD
+	https://itviec.com/viec-lam-it/data-engineer-big-data-python-java-vingroup-a-day-roi-4526
+	+ Elasticsearch
+	+ algorithms, data structures, OOP, design patterns
+	+ MongoDB
+	+ Kinh nghiệm trong việc xây dựng các hệ thống có khả năng chịu tải lớn và xử lý real-time là một lợi thế lớn
+
+- Topica
+	750$ -3000$
+	https://itviec.com/viec-lam-it/future-chief-architect-net-java-php-topica-edtech-group-5449
+	+ Java
+	+ html, css, js
+	+ MySQL, mongo
+	
+- VNDirect
+	1,000 - 1,700 USD
+	https://itviec.com/viec-lam-it/java-back-end-dev-spring-mvc-1700-vndirect-4942
+	+ Spring / Spring MVC framework.
+	+ Javascript
+	+ Maven, Hudson, Jenkins, Puppet, Docker, Vagrant…
+	+ ActiveMQ, RabbitMQ, Kafka, etc.
+	+ Test-Driven Development, Automated Test, Pair Programming is advance
+
+
+	
+	
